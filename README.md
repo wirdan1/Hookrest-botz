@@ -102,7 +102,7 @@ case "tes" : {
    }
 break
 ```
-## 📢 Promotin 
+## 📢 Promotion 
 Thanks for
 Neko team
 Danz-dev
