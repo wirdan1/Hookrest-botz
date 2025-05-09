@@ -104,6 +104,6 @@ break
 ```
 ## 📢 Promotion 
 Thanks for
-Neko team
-Danz-dev
+Neko team - 
+Danz-dev - 
 Hookrest Team
