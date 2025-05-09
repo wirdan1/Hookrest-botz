@@ -1,6 +1,6 @@
 ![Logo](https://i.supa.codes/y7Jm2W)
 
-**😼 NekoBot | 1.0.0** | ***create by Hookrest Team***
+**😼 Hookrest Botz | 1.0.0** | ***create by Hookrest Team***
 
 
 ```> Simple WhatsApp bot Using Library Baileys```
