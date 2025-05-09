@@ -7,9 +7,9 @@
 
 ```javascript
 {
-  message: Message { conversation: '>_ Welcome to NekoBot' },
+  message: Message { conversation: '>_ Welcome to Hookrest Botz' },
   type: 'conversation',
-  msg: '>_ Welcome to NekoBot',
+  msg: '>_ Welcome to Hookrest Botz',
   isMedia: false,
   key: {
     remoteJid: '6285165556936@s.whatsapp.net',
@@ -26,11 +26,11 @@
   participant: '6285165556936@s.whatsapp.net',
   sender: '6285165556936@s.whatsapp.net',
   mentions: [],
-  body: '>_ Welcome to NekoBot',
+  body: '>_ Welcome to Hookrest Botz',
   prefix: '',
   command: '>_',
-  args: [ 'Welcome', 'to', 'NekoBot' ],
-  text: 'Welcome to NekoBot',
+  args: [ 'Welcome', 'to', 'Hookrest Botz' ],
+  text: 'Welcome to Hookrest Botz',
   isOwner: true,
   download: [AsyncFunction (anonymous)]
 }
@@ -42,11 +42,11 @@ const fs = require('node:fs');
 
 const config = {
     owner: ["6285215909004"],
-    name: "- nekoBot - Simple WhatsApp bot",
+    name: "- Hookrest Botz - Simple WhatsApp bot",
     sessions: "sessions",
     sticker: {
       packname: "Made by ",
-      author: "nekoBot"
+      author: "Hookrest Botz"
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
@@ -67,7 +67,7 @@ module.exports = config
 
 ```bash
 $ git clone https://github.com/wirdan1/Hookrest-bot
-$ cd nekoBot
+$ cd name file
 $ npm install
 $ npm start
 ```
